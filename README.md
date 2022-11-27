@@ -14,7 +14,7 @@ Below, I have attached all the notebooks and data that are related to this proje
 
 1. [Using Pandas Tutorials: Jupyter Notebooks](https://github.com/bmkaheel/Public-Data-Repository/tree/main/Using%20Pandas%20Tutorials%20-%20Jupyter%20Notebooks) - This is a folder consisting of *two* Jupyter Notebooks that guide you through how to use and implement code to work with a CSV file. These methods were used in the formation of Feeder 3.1 as needed. 
 
-2. [Feeder 3.1: Jupyter Notebook](https://github.com/bmkaheel/Public-Data-Repository/blob/main/Feeder_3.1.ipynb) - This is a Jupyter Notebook consisting of code and explains its use and implementation in order to narrow down our data superset into smaller subset to better analyze the data. 
+2. [Feeder 3.1: Jupyter Notebook](https://github.com/bmkaheel/Public-Data-Repository/blob/main/Feeder%203.1.ipynb) - This is a Jupyter Notebook consisting of code and explains its use and implementation in order to narrow down our data superset into smaller subset to better analyze the data. 
 
 3. [Data Superset: CSV File](https://github.com/bmkaheel/Public-Data-Repository/blob/main/CountyHealthData_2014-2015.csv) - This is the main dataset that we are working off from. It is in the form of a CSV and consists of many cells that relate counties to health data.
 
