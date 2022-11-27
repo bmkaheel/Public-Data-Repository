@@ -8,9 +8,13 @@
 This data is provided to improve the quality of health on a **county** level and the quantity of healthy individuals. The data in this repository is collected from the year **2014-2015**, yet trends continue until this day. The dataset is designed in a comparative manner. Health of individuals at the county level is provided, along with much more data regarding probable explanations. These materials have been adapted from the excellent lessons created by the staff at the [Research Hub](https://library.unc.edu/data/) of the University of North Carolina at Chapel-Hill's Davis Library.
 
 
+
+
 ### Accessing the Data and Jupyter Notebooks
 ---
 Above this [README](https://github.com/bmkaheel/Unit-3/blob/main/README.md) file, I have attached all the notebooks and data that are related to this project. Whenever needed for referenece or anything, you can simply access them by scrolling up and clicking on them. You can duplicate the tab and have them opened side-by-side or however feels best for you.
+
+
 
 
 ### Examples of Analysis Areas
