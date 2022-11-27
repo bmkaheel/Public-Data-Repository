@@ -16,7 +16,7 @@ Below, I have attached all the notebooks and data that are related to this proje
 
 2. [Feeder 3.1: Jupyter Notebook](https://github.com/bmkaheel/Public-Data-Repository/blob/main/Feeder%203.1.ipynb) - This is a Jupyter Notebook consisting of code and explains its use and implementation in order to narrow down our data superset into smaller subset to better analyze the data. 
 
-3. [Data Superset: CSV File](https://github.com/bmkaheel/Public-Data-Repository/blob/main/CountyHealthData_2014-2015.csv) - This is the main dataset that we are working off from. It is in the form of a CSV and consists of many cells that relate counties to health data.
+3. [Data Superset: CSV File](https://github.com/bmkaheel/Public-Data-Repository/blob/main/County%20Health%20Data.csv) - This is the main dataset that we are working off from. It is in the form of a CSV and consists of many cells that relate counties to health data.
 
 4. [Data Subsets: CSV Files](https://github.com/bmkaheel/Public-Data-Repository/tree/main/Data%20Subsets) - This folder consists of *three* data subsets of the main dataset that are CSV files. They are condensed datasets in order to better analyze the data through specific areas of analysis.
 
