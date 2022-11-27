@@ -67,7 +67,7 @@ In this data representation, we can better visualize each county's levels of tob
 For example, the reason for a higher premature death rate in Swain County is probably linked to the extensive use of tobacco and alcohol consumption. The use of tobacco and alcohol can eventually lead to many health complications and excessive use can have severe health complications. 
 
 ---
-### Licensing
+### Licensing & Acknowledgements
 
 Terms of Use: 
 
