@@ -13,10 +13,14 @@ This data is provided to improve the quality of health on a **county** level and
 Above this [README](https://github.com/bmkaheel/Unit-3/blob/main/README.md) file, I have attached all the notebooks and data that are related to this project. Whenever needed for referenece or anything, you can simply access them by clicking on the corresponding links below or scrolling up and clicking on the files directly. You can duplicate the tab and have them opened side-by-side or however feels best for you. 
 
 1.) [Using Pandas Tutorials: Jupyter Notebooks](https://github.com/bmkaheel/Public-Data-Repository/tree/main/Using%20Pandas%20Tutorials%20-%20Jupyter%20Notebooks)
+
 2.) [Feeder 3.1: Jupyter Notebook](https://github.com/bmkaheel/Public-Data-Repository/blob/main/Feeder_3.1.ipynb)
-3.) [Data Superset: CSV File]
+
+3.) [Data Superset: CSV File](https://github.com/bmkaheel/Public-Data-Repository/blob/main/CountyHealthData_2014-2015.csv)
+
 4.) [Data Subsets: CSV Files](https://github.com/bmkaheel/Public-Data-Repository/tree/main/Data%20Subsets)
-5.) [Data Visuals](https://github.com/bmkaheel/Public-Data-Repository/tree/main/Data%20Visualization)
+
+5.) [Data Visuals: PNG Files](https://github.com/bmkaheel/Public-Data-Repository/tree/main/Data%20Visualization)
 
 
 
