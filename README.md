@@ -26,7 +26,7 @@ Everyone is constantly struggling in their own battle and counties are, too. For
 3.) and extent of funding in a specific community.
 
 ---
-### Benefit of Data Visualization
+### Benefits of Data Visualization
 
 A county's health rate can increase tremendously through visualization of this dataset. Data visualization leads to a greater understanding of the numbers in the data. Through the use of data visualization in this data, we are able to better understand why some counties have lower health numbers than others.
 
