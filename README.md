@@ -3,7 +3,7 @@
 ---
 ### Description of the Data
 
-This data is provided to improve the quality of health on a **county** level and the quantity of healthy individuals. The data in this repository is collected from the year **2014-2015**, yet trends continue until this day. The dataset is designed in a comparative manner. Health of individuals at the county level is provided, along with much more data regarding probable explanations. These materials have been adapted from the excellent lessons created by the staff at the [Research Hub](https://library.unc.edu/data/) of the University of North Carolina at Chapel-Hill's Davis Library.
+This data is provided to improve the quality of health on a **county** level and the quantity of healthy individuals. The data in this repository is collected from the year **2014-2015**, yet trends continue until this day. The dataset is designed in a comparative manner. Health of individuals at the county level is provided, along with much more data regarding probable explanations. These materials have been adapted from the amazing lessons organized by the [Research Hub](https://library.unc.edu/data/) of the University of North Carolina at Chapel-Hill's Davis Library.
 
 
 
@@ -69,4 +69,8 @@ For example, the reason for a higher premature death rate in Swain County is pro
 ---
 ### Licensing
 
-Terms of Use: I don't know what to type here yet but this section will be here.
+Terms of Use: 
+
+Version 1.0
+
+The repository located at https://github.com/bmkaheel/Public-Data-Repository is a copyrighted work belonging to Benjamin Kaheel. Through the use of external materials and programs such as those sourced from the [Research Hub](https://library.unc.edu/data/) of the University of North Carolina at Chapel-Hill's Davis Library and those assisting with the developement and formation of this repository, this repository has come to life. For more information regarding anything contained in the repository or possible continued development in this repository, don't hesitate to reach out to Benjamin Kaheel at bmkaheel@ad.unc.edu.
