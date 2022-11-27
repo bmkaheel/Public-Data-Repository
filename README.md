@@ -31,11 +31,16 @@ Everyone is constantly struggling in their own battle and counties are, too. For
 A county's health rate can increase tremendously through visualization of this dataset. Data visualization leads to a greater understanding of the numbers in the data. Through the use of data visualization in this data, we are able to better understand why some counties have lower health numbers than others.
 
 ---
-### Tobacco and Alcohol-Use Visualization
+### Sample Data Visuals
+
+Sample Visual #1:
 
 ![Tobacco Use by County](https://user-images.githubusercontent.com/111814393/203340386-f69e8592-0657-4bda-8719-cfd9db564729.png)
 
+
+Sample Visual #2:
 ![Alcohol Consumption](https://user-images.githubusercontent.com/111814393/203340437-f3a44bfa-5355-4224-9cd4-b0d23c7948c5.png)
+
 
 ---
 ### Understanding our Data Visuals
