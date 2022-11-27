@@ -12,15 +12,15 @@ This data is provided to improve the quality of health on a **county** level and
 
 Above this [README](https://github.com/bmkaheel/Unit-3/blob/main/README.md) file, I have attached all the notebooks and data that are related to this project. Whenever needed for referenece or anything, you can simply access them by clicking on the corresponding links below or scrolling up and clicking on the files directly. You can duplicate the tab and have them opened side-by-side or however feels best for you. 
 
-1. [Using Pandas Tutorials: Jupyter Notebooks](https://github.com/bmkaheel/Public-Data-Repository/tree/main/Using%20Pandas%20Tutorials%20-%20Jupyter%20Notebooks)
+1. [Using Pandas Tutorials: Jupyter Notebooks](https://github.com/bmkaheel/Public-Data-Repository/tree/main/Using%20Pandas%20Tutorials%20-%20Jupyter%20Notebooks) - This is a folder consisting of *two* Jupyter Notebooks that guide you through how to use and implement code to work with a CSV file. These methods were used in the formation of Feeder 3.1 as needed. 
 
-2. [Feeder 3.1: Jupyter Notebook](https://github.com/bmkaheel/Public-Data-Repository/blob/main/Feeder_3.1.ipynb)
+2. [Feeder 3.1: Jupyter Notebook](https://github.com/bmkaheel/Public-Data-Repository/blob/main/Feeder_3.1.ipynb) - This is a Jupyter Notebook consisting of code and explains its use and implementation in order to narrow down our data superset into smaller subset to better analyze the data. 
 
-3. [Data Superset: CSV File](https://github.com/bmkaheel/Public-Data-Repository/blob/main/CountyHealthData_2014-2015.csv)
+3. [Data Superset: CSV File](https://github.com/bmkaheel/Public-Data-Repository/blob/main/CountyHealthData_2014-2015.csv) - This is the main dataset that we are working off from. It is in the form of a CSV and consists of many cells that relate counties to health data.
 
-4. [Data Subsets: CSV Files](https://github.com/bmkaheel/Public-Data-Repository/tree/main/Data%20Subsets)
+4. [Data Subsets: CSV Files](https://github.com/bmkaheel/Public-Data-Repository/tree/main/Data%20Subsets) - This folder consists of *three* data subsets of the main dataset that are CSV files. They are condensed datasets in order to better analyze the data through specific areas of analysis.
 
-5. [Data Visuals: PNG Files](https://github.com/bmkaheel/Public-Data-Repository/tree/main/Data%20Visualization)
+5. [Data Visuals: PNG Files](https://github.com/bmkaheel/Public-Data-Repository/tree/main/Data%20Visualization) - This link leads you to the *two* data visuals that are seen later in this README file. 
 
 
 
