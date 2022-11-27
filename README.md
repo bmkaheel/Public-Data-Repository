@@ -67,10 +67,7 @@ In this data representation, we can better visualize each county's levels of tob
 For example, the reason for a higher premature death rate in Swain County is probably linked to the extensive use of tobacco and alcohol consumption. The use of tobacco and alcohol can eventually lead to many health complications and excessive use can have severe health complications. 
 
 ---
-### Licensing & Acknowledgements
+### Acknowledgements and Licenses:
 
-Terms of Use: 
 
-Version 1.0
-
-This repository is a copyrighted work belonging to Benjamin Kaheel. Through the use of external materials and programs such as those sourced from the [Research Hub](https://library.unc.edu/data/) of the University of North Carolina at Chapel-Hill's Davis Library and those assisting with the developement and formation of this repository, this repository has come to life. Thanks to Professor Gotzler for making the creation of this repository possible by providing all the necessary information needed. For more information regarding anything contained in the repository or possible continued development in this repository, don't hesitate to reach out to Benjamin Kaheel at bmkaheel@ad.unc.edu. 
+This repository is a copyrighted work belonging to Benjamin Kaheel. Through the use of external materials such as the County Health Data sourced from the [Research Hub](https://library.unc.edu/data/) of the University of North Carolina at Chapel-Hill's Davis Library and the programs aiding in the formation developement and formation of this repository, this repository has come to life. Thanks to Professor Gotzler for giving us the opportunity to complete this repository and making the creation of this repository possible by providing all the necessary information needed. The contents provided in this repository are available for the use and reproduction if properly cited. If expanding through deeper analysis of the data or information provided here, feel free to do so. For more information regarding anything contained in the repository or possible continued development in this repository, don't hesitate to reach out to Benjamin Kaheel at bmkaheel@ad.unc.edu. 
