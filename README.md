@@ -37,7 +37,7 @@ A county's health rate can increase tremendously through visualization of this d
 
 ![Tobacco Use by County](https://user-images.githubusercontent.com/111814393/203340386-f69e8592-0657-4bda-8719-cfd9db564729.png)
 
---
+___
 
 
 **Visual 2:**
