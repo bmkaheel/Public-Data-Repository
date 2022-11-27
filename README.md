@@ -33,12 +33,12 @@ A county's health rate can increase tremendously through visualization of this d
 ---
 ### Sample Data Visuals
 
-**Visual 1:
+**Visual 1:**
 
 ![Tobacco Use by County](https://user-images.githubusercontent.com/111814393/203340386-f69e8592-0657-4bda-8719-cfd9db564729.png)
 
 
-**Visual 2:
+**Visual 2:**
 
 ![Alcohol Consumption](https://user-images.githubusercontent.com/111814393/203340437-f3a44bfa-5355-4224-9cd4-b0d23c7948c5.png)
 
