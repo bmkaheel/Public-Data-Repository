@@ -10,7 +10,7 @@ This data is provided to improve the quality of health on a **county** level and
 ---
 ### Accessing the Data and Jupyter Notebooks
 
-Above this README file, I have attached all the notebooks and data that are related to this project. Whenever needed for referenece or anything, you can simply access them by clicking on the corresponding links below or scrolling up and clicking on the files directly. You can duplicate the tab and have them opened side-by-side or however feels best for you. 
+Below, I have attached all the notebooks and data that are related to this project. Whenever needed for referenece or anything, you can simply access them by clicking on the corresponding links below or scrolling up and clicking on the files directly. You can duplicate the tab and have them opened side-by-side or however feels best for you. 
 
 1. [Using Pandas Tutorials: Jupyter Notebooks](https://github.com/bmkaheel/Public-Data-Repository/tree/main/Using%20Pandas%20Tutorials%20-%20Jupyter%20Notebooks) - This is a folder consisting of *two* Jupyter Notebooks that guide you through how to use and implement code to work with a CSV file. These methods were used in the formation of Feeder 3.1 as needed. 
 
